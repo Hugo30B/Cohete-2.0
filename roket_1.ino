@@ -13,6 +13,6 @@ void loop() {
         myServo.write(180); 
  }
  else {    
-   digitalWrite(4,HIGH)
+   digitalWrite(4,LOW);
  }
 }
